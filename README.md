@@ -1,6 +1,6 @@
 ﻿# LLM-Engineering
 
-Creating data sceince environment:
+Creating the environment setup:
 1. Clone the repo
 2. install the cursor
 3. install the uv
